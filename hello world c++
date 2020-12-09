@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!\n";
+    std::cout << "Hola Mundo!\n";
+    std::cout << "Olá Mundo!\n";
+    std::cout << "Bonjour le monde!\n";
+    std::cout << "Ciao mondo!\n";
+    std::cout << "Orbis Terrarum salve!\n";
+    return 0;
+}
